@@ -1,0 +1,1 @@
+A basic calculator application built using Python's Tkinter library. It supports simple arithmetic operations (addition, subtraction, multiplication, division) with a clean graphical interface and error handling.
